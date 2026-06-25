@@ -1,0 +1,11 @@
+To Build Locally
+docker build -t flask-app .
+
+Run:
+docker run -p 5000:5000 flask-app
+
+Test:
+http://localhost:5000
+
+Output:
+CI/CD Kubernetes Automation Project Running Successfully!
