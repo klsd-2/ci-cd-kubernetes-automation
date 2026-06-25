@@ -1,0 +1,13 @@
+ci-cd-kubernetes-automation/
+│
+├── application/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── kubernetes/
+├── helm/
+├── terraform/
+├── .github/workflows/
+├── Jenkinsfile
+└── README.md
